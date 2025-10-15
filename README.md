@@ -6,9 +6,9 @@
 
 # 👨‍💻 Marcos Luiz Mendes Junior
 
-🎓 Estudante de **Gestão da Tecnologia da Informação (PUCRS)**  
-📚 Formação complementar em **Computação em Nuvem e Multimeios Didáticos (IFSP)**  
-☁️ Apaixonado por **Cloud, DevOps e Educação**
+💻 Profissional em formação em **TI e Computação em Nuvem**  
+☁️ Foco em **DevOps, Multicloud e Backend Development**  
+🚀 Apaixonado por automação, infraestrutura e soluções escaláveis  
 
 ---
 
@@ -17,16 +17,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
 
 </div>
-
----
-
-## 🧠 Sobre Mim
-
-Sou movido pela curiosidade e pela vontade de ensinar e aprender.  
-Minha trajetória começou na **educação**, e hoje transformo essa experiência em um diferencial no mundo da **tecnologia e computação em nuvem**.  
-
-Busco unir **didática, automação e inovação**, criando soluções que facilitam o aprendizado e impulsionam a transformação digital.  
-> “Ensinar é continuar aprendendo — e aprender é evoluir sempre.” 🚀
 
 ---
 
@@ -63,6 +53,8 @@ Busco unir **didática, automação e inovação**, criando soluções que facil
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
@@ -72,27 +64,22 @@ Busco unir **didática, automação e inovação**, criando soluções que facil
 
 | Projeto | Descrição |
 |:--|:--|
-| 
+| 🌩️ [Cloud Portfolio](https://github.com/SEU_USUARIO_AQUI/cloud-portfolio) | Infraestrutura como código (IaC) com Terraform e AWS |
+| 🐳 [Docker Labs](https://github.com/SEU_USUARIO_AQUI/docker-labs) | Containers, deployment e pipelines |
+| 🧠 [AI Study Hub](https://github.com/SEU_USUARIO_AQUI/ai-study-hub) | Laboratórios de IA e automação em Python |
+| 📊 [FinOps Dashboard](https://github.com/SEU_USUARIO_AQUI/finops-dashboard) | Painel de otimização de custos em nuvem |
+| 🧩 [Backend API Projects](https://github.com/SEU_USUARIO_AQUI/backend-projects) | APIs RESTful e microservices com Python/Node.js |
+
+---
 
 ## 🎓 Formação e Programas
 
 <div align="center">
 <img src="https://escoladanuvem.org/wp-content/uploads/2022/11/logo-escola-da-nuvem.svg" width="180"/>
 
-**Formação em Computação em Nuvem:** AWS Developer Associate — Escola da Nuvem  
+**Programa:** AWS Developer Associate — Escola da Nuvem  
 **Instrutor Técnico:** João Gaioso  
 **Carreiras & Soft Skills:** Camila (Equipe Escola da Nuvem)
-</div>
-
----
-
-## 💬 Inspiração
-
-<div align="center">
-
-🧩 *"A tecnologia só faz sentido quando conecta pessoas e transforma realidades."*  
-✨ — Marcos Luiz Mendes Junior  
-
 </div>
 
 ---
@@ -107,7 +94,6 @@ Busco unir **didática, automação e inovação**, criando soluções que facil
 
 <div align="center">
   
-⭐ Se gostou do meu trabalho, deixe uma estrela nos meus repositórios!  
-💬 Vamos trocar ideias sobre Cloud, DevOps e Educação!
+⭐ Explore meus repositórios e me siga para acompanhar projetos em Cloud, DevOps e Backend.  
 
 </div>
