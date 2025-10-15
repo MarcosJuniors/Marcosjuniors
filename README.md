@@ -1,17 +1,8 @@
-<!-- =========================================
-🌩️ README.md do portfólio de Marcos Luiz Mendes Junior
-========================================= -->
-
 # 👨‍💻 Marcos Luiz Mendes Junior
 
-💻 **Apaixonado por TI, DevOps, Computação em Nuvem e Backend**  
-☁️ Experiência com **Multicloud (AWS, Azure, OCI)**  
-🚀 Criando soluções escaláveis, automação e infraestrutura  
-
-<!--
-💡 Comentário: Essa é a seção de introdução. 
-Você pode adicionar outras informações curtas sobre você, como experiência ou interesses específicos.
--->
+💻 Foco em **TI, DevOps, Computação em Nuvem e Backend**  
+☁️ Aprendendo e praticando **Multicloud (AWS, Azure, OCI)**  
+🚀 Certificações e projetos pessoais para mostrar habilidades técnicas  
 
 ---
 
@@ -21,31 +12,23 @@ Você pode adicionar outras informações curtas sobre você, como experiência 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_AQUI)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
 
-<!--
-💡 Comentário: Substitua os links pelos seus reais. O LinkedIn deve ser o seu perfil, 
-GitHub é o seu username, e Email é o seu email profissional.
--->
-
 ---
 
 ## 🏆 Certificações
 
+<!-- Cores consistentes: AWS = laranja, Azure = azul, OCI = vermelho, Outras = cinza escuro -->
+
 ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![OCI DevOps](https://img.shields.io/badge/OCI-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-0061F2?style=for-the-badge&logo=finopsfoundation&logoColor=white)
-![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
+![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-555555?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-555555?style=for-the-badge&logo=finopsfoundation&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-555555?style=for-the-badge&logo=github&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Practitioner-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<!--
-💡 Comentário: Cada badge é uma certificação. Para adicionar mais, copie o formato
-e troque os valores: label, cor e logo.
--->
 
 ---
 
@@ -63,24 +46,14 @@ e troque os valores: label, cor e logo.
 
 <br/><br/>
 
-<!--
-💡 Comentário: Essas imagens mostram suas habilidades técnicas.
-Para adicionar novas tecnologias, busque o ícone em devicon (https://devicon.dev/).
--->
-
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=tokyonight&layout=compact&custom_title=Top+Linguagens&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=radical&layout=compact&custom_title=Top+Linguagens&langs_count=9" />
 </p>
-
-<!--
-💡 Comentário: Substitua SEU_USUARIO_AQUI pelo seu GitHub username para mostrar stats reais.
-Você pode alterar o tema do gráfico em "theme=", existem vários disponíveis.
--->
 
 ---
 
@@ -94,11 +67,6 @@ Você pode alterar o tema do gráfico em "theme=", existem vários disponíveis.
 | 📊 [FinOps Dashboard](https://github.com/SEU_USUARIO_AQUI/finops-dashboard) | Painel de otimização de custos em nuvem |
 | 🧩 [Backend API Projects](https://github.com/SEU_USUARIO_AQUI/backend-projects) | APIs RESTful e microservices com Python/Node.js |
 
-<!--
-💡 Comentário: Substitua SEU_USUARIO_AQUI nos links pelos seus repositórios.
-Você pode adicionar ou remover projetos conforme quiser.
--->
-
 ---
 
 ### 🔗 Links Úteis
@@ -106,7 +74,3 @@ Você pode adicionar ou remover projetos conforme quiser.
 - GitHub: [github.com/SEU_USUARIO_AQUI](https://github.com/SEU_USUARIO_AQUI)  
 - LinkedIn: [linkedin.com/in/SEU_LINKEDIN_AQUI](https://linkedin.com/in/SEU_LINKEDIN_AQUI)  
 - E-mail: SEUEMAIL@gmail.com
-
-<!--
-💡 Comentário: Links importantes para contato e networking. Atualize sempre que necessário.
--->
