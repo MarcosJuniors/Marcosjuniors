@@ -97,5 +97,5 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 ### 🔗 Links Úteis
 
 - GitHub: https://github.com/MarcosJuniors/Marcosjuniors.git 
-- LinkedIn: [linkedin.com/in/SEU_LINKEDIN_AQUI](https://linkedin.com/in/SEU_LINKEDIN_AQUI)  
+- LinkedIn: https://www.linkedin.com/in/marcos-junior-a8a587270 
 - E-mail: marccosjunior963@gmail.com
