@@ -1,8 +1,17 @@
+<!-- =========================================
+🌩️ README.md do portfólio de Marcos Luiz Mendes Junior
+========================================= -->
+
 # 👨‍💻 Marcos Luiz Mendes Junior
 
-💻 Foco em **TI, DevOps, Computação em Nuvem e Backend**  
-☁️ Experiência com **Multicloud, AWS, Azure, OCI**  
+💻 **Apaixonado por TI, DevOps, Computação em Nuvem e Backend**  
+☁️ Experiência com **Multicloud (AWS, Azure, OCI)**  
 🚀 Criando soluções escaláveis, automação e infraestrutura  
+
+<!--
+💡 Comentário: Essa é a seção de introdução. 
+Você pode adicionar outras informações curtas sobre você, como experiência ou interesses específicos.
+-->
 
 ---
 
@@ -11,6 +20,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_AQUI)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+
+<!--
+💡 Comentário: Substitua os links pelos seus reais. O LinkedIn deve ser o seu perfil, 
+GitHub é o seu username, e Email é o seu email profissional.
+-->
 
 ---
 
@@ -28,6 +42,11 @@
 ![Docker](https://img.shields.io/badge/Docker-Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<!--
+💡 Comentário: Cada badge é uma certificação. Para adicionar mais, copie o formato
+e troque os valores: label, cor e logo.
+-->
+
 ---
 
 ## 🤖 Tecnologias e Ferramentas
@@ -44,14 +63,24 @@
 
 <br/><br/>
 
+<!--
+💡 Comentário: Essas imagens mostram suas habilidades técnicas.
+Para adicionar novas tecnologias, busque o ícone em devicon (https://devicon.dev/).
+-->
+
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=tokyonight&layout=compact&custom_title=Top+Linguagens&langs_count=9" />
 </p>
+
+<!--
+💡 Comentário: Substitua SEU_USUARIO_AQUI pelo seu GitHub username para mostrar stats reais.
+Você pode alterar o tema do gráfico em "theme=", existem vários disponíveis.
+-->
 
 ---
 
@@ -65,10 +94,19 @@
 | 📊 [FinOps Dashboard](https://github.com/SEU_USUARIO_AQUI/finops-dashboard) | Painel de otimização de custos em nuvem |
 | 🧩 [Backend API Projects](https://github.com/SEU_USUARIO_AQUI/backend-projects) | APIs RESTful e microservices com Python/Node.js |
 
+<!--
+💡 Comentário: Substitua SEU_USUARIO_AQUI nos links pelos seus repositórios.
+Você pode adicionar ou remover projetos conforme quiser.
+-->
+
 ---
 
-## 🔗 Links Úteis
+### 🔗 Links Úteis
 
 - GitHub: [github.com/SEU_USUARIO_AQUI](https://github.com/SEU_USUARIO_AQUI)  
 - LinkedIn: [linkedin.com/in/SEU_LINKEDIN_AQUI](https://linkedin.com/in/SEU_LINKEDIN_AQUI)  
 - E-mail: SEUEMAIL@gmail.com
+
+<!--
+💡 Comentário: Links importantes para contato e networking. Atualize sempre que necessário.
+-->
