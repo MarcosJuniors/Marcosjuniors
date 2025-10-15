@@ -9,9 +9,9 @@
 Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, curso **Gestão da Tecnologia da Informação na PUCRS** e **Análise e Desenvolvimento de Sistemas na Uniube**. Sou apaixonado por tecnologia e compartilho meus conhecimentos em projetos, certificações e cursos relacionados a **DevOps, Computação em Nuvem e Multicloud**.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+    <a href="www.linkedin.com/in/marcos-junior-a8a587270">
         <img 
-            alt="https://www.linkedin.com/in/marcos-junior-a8a587270" 
+            alt="Linkedin" 
             title="Conecte-se no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
