@@ -16,7 +16,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU_GITHUB_AQUI">
+    <a href="https://github.com/MarcosJuniors/Marcosjuniors.git">
         <img 
             alt="GitHub" 
             title="Me siga no GitHub" 
@@ -96,6 +96,6 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 
 ### 🔗 Links Úteis
 
-- GitHub: [github.com/SEU_USUARIO_AQUI](https://github.com/SEU_USUARIO_AQUI)  
+- GitHub: https://github.com/MarcosJuniors/Marcosjuniors.git 
 - LinkedIn: [linkedin.com/in/SEU_LINKEDIN_AQUI](https://linkedin.com/in/SEU_LINKEDIN_AQUI)  
-- E-mail: SEUEMAIL@gmail.com
+- E-mail: marccosjunior963@gmail.com
