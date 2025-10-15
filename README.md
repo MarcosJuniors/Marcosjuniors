@@ -30,7 +30,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 
 <!-- Cores consistentes: AWS = laranja, Azure = azul, OCI = vermelho, Outros cursos = cinza escuro -->
 
- ![AWS Certified Developer – Associate](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate)
+ ![AWS Certified Developer – Associate](https://www.bing.com/ck/a?!&&p=577e2c0c876b889e5809ee8aafb2248a7154768713f24d1b9b07530c984b5e50JmltdHM9MTc2MDQwMDAwMA&ptn=3&ver=2&hsh=4&fclid=12d63a0d-1e11-6ee4-2b14-2ee01f406f1b&u=a1L3NlYXJjaD9GT1JNPVNOQVBTVCZxPUFtYXpvbismZmlsdGVycz1saXRlOiIuVW1Wc1lYUmxaRU5oZEdWbmIzSnBaWE5OYjJSMWJHVmVZalEzWVRRME56UXRaVEk1TmkwNVpESTJMV013WW1VdFkyRm1OREJoWTJaak1XUTJYM0IwTFdKeVhsNWVYakFrWTJVd01ESTRObUV0WlRrd015MW1aakpqTFRka1lXTXRZalE1WW1RM01EY3pPVGxqIitzaWQ6ImNlMDAyODZhLWU5MDMtZmYyYy03ZGFjLWI0OWJkNzA3Mzk5YyIrY206Ii5VSEp2ZG1Wa2IzSmxjeUJrWlNCamIyMXdkWFJodzZmRG8yOGdaVzBnYm5WMlpXMD0iJmtwb3M9MA)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
