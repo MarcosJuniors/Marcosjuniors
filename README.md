@@ -42,22 +42,22 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 
 ### 🎓 Cursos e Treinamentos
 
-<!-- Cores consistentes: AWS = laranja, Azure = azul, OCI = vermelho, Google Cloud = azul claro, Outros cursos = cinza escuro -->
+<!-- Todas as cores agora são pretas para uniformidade -->
 
-![AWS re:Start](https://img.shields.io/badge/AWS-reStart-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-555555?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![OCI DevOps](https://img.shields.io/badge/OCI-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-555555?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-555555?style=for-the-badge&logo=finopsfoundation&logoColor=white)
-![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-555555?style=for-the-badge&logo=github&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Curso-6F42C1?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Curso-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS re:Start](https://img.shields.io/badge/AWS-reStart-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-000000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI DevOps](https://img.shields.io/badge/OCI-DevOps_Professional-000000?style=for-the-badge&logo=oracle&logoColor=white)
+![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-000000?style=for-the-badge&logo=finopsfoundation&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-000000?style=for-the-badge&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Curso-000000?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Curso-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Curso-000000?style=for-the-badge&logo=linux&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Curso-555555?style=for-the-badge&logo=devops&logoColor=white)
-![Multicloud](https://img.shields.io/badge/Multicloud-Curso-555555?style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Curso-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Curso-000000?style=for-the-badge&logo=devops&logoColor=white)
+![Multicloud](https://img.shields.io/badge/Multicloud-Curso-000000?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Curso-000000?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ##  🤖 Tecnologias e Ferramentas
 
