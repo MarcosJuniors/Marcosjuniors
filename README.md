@@ -41,7 +41,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 
 ## 🎓 Cursos
 
-![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart-Curso-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart--FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Developer Associate](https://img.shields.io/badge/AWS_Developer_Associate-Curso-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Curso-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-Curso-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
