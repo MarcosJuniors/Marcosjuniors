@@ -25,19 +25,18 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
     </a>
 </p>
 
-
 ##### 🏆 Certificações
 
-<!-- Cores consistentes: AWS Developer = cinza escuro, AWS Cloud Practitioner = laranja, Azure = azul, OCI = vermelho, Outros cursos = cinza escuro -->
+<!-- Todas as cores agora são pretas para uniformidade -->
 
-![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Developer_Associate-555555?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![OCI DevOps](https://img.shields.io/badge/OCI-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-555555?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-555555?style=for-the-badge&logo=finopsfoundation&logoColor=white)
-![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-555555?style=for-the-badge&logo=github&logoColor=white)
+![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Developer_Associate-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-000000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI DevOps](https://img.shields.io/badge/OCI-DevOps_Professional-000000?style=for-the-badge&logo=oracle&logoColor=white)
+![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-000000?style=for-the-badge&logo=finopsfoundation&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
