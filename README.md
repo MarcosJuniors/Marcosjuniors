@@ -62,9 +62,10 @@
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <!-- Gráfico de pizza mostrando linguagens mais usadas -->
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&langs_count=10" />
+  <!-- Gráfico de pizza com linguagens mais usadas, tema limpo -->
+  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=pie&theme=tokyonight&langs_count=10&hide=HTML,CSS" />
 </p>
+
 
 ---
 
