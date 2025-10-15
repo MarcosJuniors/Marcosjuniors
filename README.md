@@ -75,12 +75,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<p>
-  <!-- Gráfico de pizza com linguagens mais usadas, tema limpo -->
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=pie&theme=tokyonight&langs_count=10&hide=HTML,CSS" />
-</p>
 
 
 ---
