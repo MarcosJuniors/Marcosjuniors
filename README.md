@@ -11,7 +11,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 <p align="left">
     <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
         <img 
-            alt="LinkedIn" 
+            alt="www.linkedin.com/in/marcos-junior-a8a587270" 
             title="Conecte-se no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
