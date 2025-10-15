@@ -41,17 +41,25 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 
 ## 🎓 Cursos
 
-![AWS re/Start](https://img.shields.io/badge/AWS_re%2FStart--?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Developer Associate](https://img.shields.io/badge/AWS_Developer_Associate--?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-?style=for-the-badge&logo=linux&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-?style=for-the-badge&logo=jenkins&logoColor=white)
-![Multicloud](https://img.shields.io/badge/Multicloud-?style=for-the-badge&logo=cloud&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Escola da Nuvem](https://img.shields.io/badge/Escola_da_Nuvem-008080?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuUlEQVQ4T6WTvUsDQRSHv3tmILnAwwd6gF1HBU4R+og7B9BFBEXbCkSB3Ejdgd3IlRMQEMbUKGJskhVoYxRZsWwOa3m5+Z3ZnZmJ8Sx4h5z59577k+ZGOeX2Je4qMCxEix0ZzH2q2Xb2PA5mYv2zFBf2HBpmgFCxTtiMI8rAf5+QkicC7Y6+uN8Hc0+FTFPklGJx8/0/j0KYxUs6gGzhKh7L6CNkG9h6i4jV6hGvyaA+3Z2kq7tJCLHuKnz5ofBuXnhD9plTxFXQLSP4EhyPA7RgPewUQG2XDBXXrNR6gUjrG5wY2k5cfHj8sEyUQsN5jM3wT2kJv6Hzgy4MJ2qruTIiqlg77B5qKHyG8JD/pD6YheFZ2dxCzmjH53qvKJr6HwFZl3i7qXZ/y6SCu1+eUzf9G6x+mHjvNX1F5kIbqlr3otd13qLUib8bUXpRG5IXzFwO0WPO5I4hf63ftt1yV0Pq94tAhLZX4HoQ4Ih+LL9T+4FAW+Ktp6oAMU0rk4WQq6Wh/n9D4G1KjS0b/NGZIAAAAASUVORK5CYII=)
+### 🎓 Cursos e Treinamentos
 
----
+<!-- Cores consistentes: AWS = laranja, Azure = azul, OCI = vermelho, Google Cloud = azul claro, Outros cursos = cinza escuro -->
+
+![AWS re:Start](https://img.shields.io/badge/AWS-reStart-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-555555?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI DevOps](https://img.shields.io/badge/OCI-DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-555555?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-555555?style=for-the-badge&logo=finopsfoundation&logoColor=white)
+![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-555555?style=for-the-badge&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Curso-6F42C1?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Curso-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Curso-000000?style=for-the-badge&logo=linux&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Curso-555555?style=for-the-badge&logo=devops&logoColor=white)
+![Multicloud](https://img.shields.io/badge/Multicloud-Curso-555555?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Curso-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 ##  Tecnologias e Ferramentas
 
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
