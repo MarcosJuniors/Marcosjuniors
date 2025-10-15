@@ -72,19 +72,14 @@ Busco unir **didática, automação e inovação**, criando soluções que facil
 
 | Projeto | Descrição |
 |:--|:--|
-| 🌩️ [**Cloud Portfolio**](https://github.com/SEU_USUARIO_AQUI/cloud-portfolio) | Infraestrutura como código (IaC) com Terraform e AWS |
-| 🧠 [**AI Study Hub**](https://github.com/SEU_USUARIO_AQUI/ai-study-hub) | Estudos e experimentos com IA e aprendizado de máquina |
-| 📊 [**FinOps Dashboard**](https://github.com/SEU_USUARIO_AQUI/finops-dashboard) | Painel de otimização de custos em nuvem |
-| 🧩 [**EduTech Tools**](https://github.com/SEU_USUARIO_AQUI/edutech-tools) | Recursos e scripts educacionais com Python e Docker |
-
----
+| 
 
 ## 🎓 Formação e Programas
 
 <div align="center">
 <img src="https://escoladanuvem.org/wp-content/uploads/2022/11/logo-escola-da-nuvem.svg" width="180"/>
 
-**Programa:** AWS Developer Associate — Escola da Nuvem  
+**Formação em Computação em Nuvem:** AWS Developer Associate — Escola da Nuvem  
 **Instrutor Técnico:** João Gaioso  
 **Carreiras & Soft Skills:** Camila (Equipe Escola da Nuvem)
 </div>
