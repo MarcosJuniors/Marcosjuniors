@@ -71,6 +71,10 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://tse3.mm.bing.net/th/id/OIP._xZJ5Q1N7TuZuCnfH77cJwHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Datadog" title="Datadog" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" />
+<img align="left" alt="Zabbix" title="Zabbix" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Zabbix_logo.svg" />
+<img align="left" alt="Grafana" title="Grafana" width="30px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/grafana.svg" />
 
 
 ---
