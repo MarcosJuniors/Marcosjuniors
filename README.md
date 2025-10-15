@@ -60,7 +60,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 ![Multicloud](https://img.shields.io/badge/Multicloud-Curso-555555?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Curso-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-##  Tecnologias e Ferramentas
+##  🤖 Tecnologias e Ferramentas
 
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img align="left" alt="Oracle" title="Oracle Cloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
@@ -70,8 +70,8 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Amazon_Web_Services_Logo.svg" />
 
-<br/><br/>
 
 ---
 
