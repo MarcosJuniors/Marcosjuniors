@@ -87,7 +87,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 
 | Projeto | Descrição |
 |:--|:--|
-| 🌩️ [Cloud Portfolio](https://github.com/SEU_USUARIO_AQUI/cloud-portfolio) | Infraestrutura como código (IaC) com Terraform e AWS |
+| 🌩️ [Linux Shell Comandos](https://github.com/MarcosJuniors/Guia-terminal-linux) | Comandos fundamentais para navegação, processos e permissões |
 | 🐳 [Ansible Labs](https://github.com/SEU_USUARIO_AQUI/ansible-labs) | Automação e gerenciamento de configuração com Ansible |
 | 🧠 [Multicloud Experiments](https://github.com/SEU_USUARIO_AQUI/multicloud-experiments) | Experimentos em AWS, Azure e Google Cloud |
 | 📊 [DevOps Projects](https://github.com/SEU_USUARIO_AQUI/devops-projects) | Pipelines, CI/CD e automação |
