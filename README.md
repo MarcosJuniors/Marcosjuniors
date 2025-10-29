@@ -25,7 +25,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
     </a>
 </p>
 
-##### 🏆 Certificações
+### 🏆 Certificações
 
 <!-- Todas as cores agora são pretas para uniformidade -->
 
