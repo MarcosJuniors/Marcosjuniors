@@ -32,6 +32,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Developer_Associate-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Architect](https://img.shields.io/badge/OCI-Architect Associate-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![OCI DevOps](https://img.shields.io/badge/OCI-DevOps_Professional-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
