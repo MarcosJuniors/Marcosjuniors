@@ -36,6 +36,7 @@ Me chamo Marcos Luiz Mendes Junior, tenho 27 anos e sou natural do Rio de Janeir
 ![OCI DevOps](https://img.shields.io/badge/OCI-DevOps_Professional-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle Observability](https://img.shields.io/badge/OCI-Observability_Professional-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL HeatWave Certified Associate](https://img.shields.io/badge/MySQL-HeatWave_Certified_Associate-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![OCI Foundations Associate](https://img.shields.io/badge/OCI-Foundations_Associate-000000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Scrum Fundamentals](https://img.shields.io/badge/Scrum-Fundamentals-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-000000?style=for-the-badge&logo=finopsfoundation&logoColor=white)
 ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-000000?style=for-the-badge&logo=github&logoColor=white)
